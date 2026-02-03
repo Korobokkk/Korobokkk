@@ -16,7 +16,7 @@ I'm trying myself in different areas of programming.
 
 ## Certificates
 - MySQL: https://stepik.org/cert/3110446
-- Cpp:   https://stepik.org/cert/1814172
+- Cpp: https://stepik.org/cert/1814172
 <!--
 
 <p align="center">
